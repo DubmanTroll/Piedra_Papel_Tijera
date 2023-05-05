@@ -35,3 +35,15 @@ otras funciones donde si el jugador elige 1 y la pc elige 3, el jugador gana
 si el jugador elige 2 y y la pc 1, el jugador gana
 si el jugador elige 3 y la pc 2, el jugador gana
 y tambien la funsion else encaso de no ser ninguna de estas opciones, el jugador pierde
+
+1.2
+
+//<Update de datos sobre el archivo>
+
+aqui se agregan funciones donde quito las alertas de eleccion y solo lo cambi a un codigo de eleccion
+
+se agregó la función de eleccion donde simplifica las linas de cogido de jugador y pc.
+
+donde el if es jugada en vez de jugador o pc
+
+para esto se cambian alertas donde ya solo muestra los resultados de eleccion de pc, elección del jugador y el resultado del juego
